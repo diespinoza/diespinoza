@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋, My name is Diego
-I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, and MongoDB. As a software engineer, I aspire to help create creative solutions to the challenging problems of the future. As a human, I am driven by an insatiable curiosity and an acute attention to detail.
+I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, and MongoDB. I also really enjoy tinkering with Arduino and Raspberry Pi projects. As a software engineer, I aspire to help create creative solutions to the challenging problems of the future. As a person, I am driven by an insatiable curiosity and an acute attention to detail.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
